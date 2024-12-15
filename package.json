@@ -1,0 +1,19 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/puppeteer": "^5.4.7",
+    "dotenv": "^16.4.7",
+    "puppeteer": "^23.10.4",
+    "typescript": "^5.7.2",
+    "xlsx": "^0.18.5"
+  }
+}
