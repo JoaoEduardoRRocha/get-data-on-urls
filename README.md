@@ -23,9 +23,12 @@ Este projeto realiza **web scraping** em URLs de uma planilha Excel, coleta info
 
 ---
 
-## **Instalação**
-1. **Clone o repositório:**
+## **Como utilizar**
    ```bash
    git clone https://github.com/seu-usuario/web-scraper-nodejs.git
    
    cd web-scraper-nodejs
+
+   npm install
+
+   node index.js
